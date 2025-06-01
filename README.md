@@ -86,12 +86,11 @@ Data → MySQL → Data Cleaning & Preparation → EDA → Power BI Dashboard
 
 ## 📁 Folder Structure
 
-📁 banking-dashboard/
-├── 📁 data/
+banking-dashboard/
+├── data/
 │ └── raw_dataset.sql
-├── 📁 eda/
+├── eda/
 │ └── exploratory_analysis.ipynb
-├── 📁 powerbi/
+├── powerbi/
 │ └── dashboard.pbix
-├── README.md
-
+└── README.md
