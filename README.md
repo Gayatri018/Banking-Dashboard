@@ -86,11 +86,4 @@ Data → MySQL → Data Cleaning & Preparation → EDA → Power BI Dashboard
 
 ## 📁 Folder Structure
 
-banking-dashboard/
-├── data/
-│ └── raw_dataset.sql
-├── eda/
-│ └── exploratory_analysis.ipynb
-├── powerbi/
-│ └── dashboard.pbix
-└── README.md
+<pre lang="markdown"> ## 📁 Folder Structure ``` banking-dashboard/ ├── data/ │ └── raw_dataset.sql ├── eda/ │ └── exploratory_analysis.ipynb ├── powerbi/ │ └── dashboard.pbix └── README.md ``` </pre>
